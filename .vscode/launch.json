@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "picozen_final",
+            "cwd": "picozen_final",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "picozen_final (profile mode)",
+            "cwd": "picozen_final",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "picozen_final (release mode)",
+            "cwd": "picozen_final",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
